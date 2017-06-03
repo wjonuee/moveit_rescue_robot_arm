@@ -1,0 +1,12 @@
+controller_list:
+  - name: rescue_robot_arm_controller
+	action_ns: follow_joint_trajectory
+	type: FollowJointTrajectory
+	default: ture
+    joints:
+      - ARM_PTZ_Joint
+      - ARM_Joint1
+      - ARM_Joint2
+      - ARM_PITCH_Joint
+      - ARM_ROLL_Joint
+      - ARM_GRIPPER_Joint

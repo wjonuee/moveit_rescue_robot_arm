@@ -1,0 +1,36 @@
+<launch>
+  <arg name="config" default="true"/>
+  <arg name="rviz_config" default="$(find rescue_robot_arm_moveit_package)/launch/moveit.rviz" />
+
+  
+  <include file="$(find rescue_robot_arm_moveit_package)/launch/planning_context.launch">
+    <arg name="load_robot_description" value="true"/>
+  </include> 
+
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" respawn="true" output="screen">
+    <remap from="/joint_states" to="/robot/joint_states" />
+  </node>
+  
+  <include file="$(find rescue_robot_arm_moveit_package)/launch/move_group.launch">
+    <arg name="allow_trajectory_execution" value="true"/>
+  </include>
+
+  <include file="$(find rescue_robot_arm_moveit_package)/launch/moveit_rviz.launch">
+    <arg name="config" value="$(arg config)" />
+    <arg name="rviz_config" value="$(arg rviz_config)" />
+  </include>
+  
+  <node name="rescue_robot_arm_joint_trajectory_controller" pkg="rescue_robot_arm_moveit_package" type="rescue_robot_arm_joint_trajectory_controller.py">
+    <!-- remap from="/joint_states" to="/robot/joint_states" /-->
+  </node>
+
+  <!-- If this package is installed, setting 'db' as 'false' or db_path to user permission dir is required. -->
+  <arg name="db" default="false" />
+  <arg name="db_path" default="$(find rescue_robot_arm_moveit_package)/default_warehouse_mongo_db" />
+  <group if="$(arg db)">
+    <include file="$(find rescue_robot_arm_moveit_package)/launch/default_warehouse_db.launch">
+      <arg name="moveit_warehouse_database_path" value="$(arg db_path)" />
+    </include>
+  </group>
+</launch>
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<!--This does not replace URDF, and is not an extension of URDF.
+    This is a format for representing semantic information about the robot structure.
+    A URDF file must exist for this robot as well, where the joints and the links that are referenced are defined
+-->
+<robot name="rescue_robot_arm.SLDASM">
+    <!--GROUPS: Representation of a set of joints and links. This can be useful for specifying DOF to plan for, defining arms, end effectors, etc-->
+    <!--LINKS: When a link is specified, the parent joint of that link (if it exists) is automatically included-->
+    <!--JOINTS: When a joint is specified, the child link of that joint (which will always exist) is automatically included-->
+    <!--CHAINS: When a chain is specified, all the links along the chain (including endpoints) are included in the group. Additionally, all the joints that are parents to included links are also included. This means that joints along the chain and the parent joint of the base link are included in the group-->
+    <!--SUBGROUPS: Groups can also be formed by referencing to already defined group names-->
+    <group name="Arm">
+        <chain base_link="base_link" tip_link="ARM_GRIPPER_Link" />
+    </group>
+    <!--GROUP STATES: Purpose: Define a named state for a particular group, in terms of joint values. This is useful to define states like 'folded arms'-->
+    <group_state name="home" group="Arm">
+        <joint name="ARM_GRIPPER_Joint" value="0" />
+        <joint name="ARM_Joint1" value="1.5200" />
+        <joint name="ARM_Joint2" value="1.4300" />
+        <joint name="ARM_PITCH_Joint" value="0.1300" />
+        <joint name="ARM_PTZ_Joint" value="0" />
+        <joint name="ARM_ROLL_Joint" value="1.3413" />
+    </group_state>
+    <group_state name="upstright" group="Arm">
+        <joint name="ARM_GRIPPER_Joint" value="0" />
+        <joint name="ARM_Joint1" value="0" />
+        <joint name="ARM_Joint2" value="-1" />
+        <joint name="ARM_PITCH_Joint" value="-0.4719" />
+        <joint name="ARM_PTZ_Joint" value="-0.706" />
+        <joint name="ARM_ROLL_Joint" value="-0.0706" />
+    </group_state>
+    <group_state name="default_pose" group="Arm">
+        <joint name="ARM_GRIPPER_Joint" value="0" />
+        <joint name="ARM_Joint1" value="0" />
+        <joint name="ARM_Joint2" value="0" />
+        <joint name="ARM_PITCH_Joint" value="0" />
+        <joint name="ARM_PTZ_Joint" value="0" />
+        <joint name="ARM_ROLL_Joint" value="0" />
+    </group_state>
+    <group_state name="pick_pose" group="Arm">
+        <joint name="ARM_GRIPPER_Joint" value="0" />
+        <joint name="ARM_Joint1" value="-0.382" />
+        <joint name="ARM_Joint2" value="0.4944" />
+        <joint name="ARM_PITCH_Joint" value="0.6067" />
+        <joint name="ARM_PTZ_Joint" value="0" />
+        <joint name="ARM_ROLL_Joint" value="-1.6237" />
+    </group_state>
+    <!--VIRTUAL JOINT: Purpose: this element defines a virtual joint between a robot link and an external frame of reference (considered fixed with respect to the robot)-->
+    <virtual_joint name="world_joint" type="fixed" parent_frame="world_frame" child_link="base_link" />
+    <!--DISABLE COLLISIONS: By default it is assumed that any link of the robot could potentially come into collision with any other link in the robot. This tag disables collision checking between a specified pair of links. -->
+    <disable_collisions link1="ARM_GRIPPER_Link" link2="ARM_Joint1_Link" reason="Never" />
+    <disable_collisions link1="ARM_GRIPPER_Link" link2="ARM_Joint2_Link" reason="Never" />
+    <disable_collisions link1="ARM_GRIPPER_Link" link2="ARM_PITCH_Link" reason="Never" />
+    <disable_collisions link1="ARM_GRIPPER_Link" link2="ARM_PTZ_Link" reason="Never" />
+    <disable_collisions link1="ARM_GRIPPER_Link" link2="ARM_ROLL_Link" reason="Adjacent" />
+    <disable_collisions link1="ARM_Joint1_Link" link2="ARM_Joint2_Link" reason="Adjacent" />
+    <disable_collisions link1="ARM_Joint1_Link" link2="ARM_PITCH_Link" reason="Never" />
+    <disable_collisions link1="ARM_Joint1_Link" link2="ARM_PTZ_Link" reason="Adjacent" />
+    <disable_collisions link1="ARM_Joint1_Link" link2="ARM_ROLL_Link" reason="Never" />
+    <disable_collisions link1="ARM_Joint1_Link" link2="base_link" reason="Never" />
+    <disable_collisions link1="ARM_Joint2_Link" link2="ARM_PITCH_Link" reason="Adjacent" />
+    <disable_collisions link1="ARM_Joint2_Link" link2="ARM_PTZ_Link" reason="Never" />
+    <disable_collisions link1="ARM_Joint2_Link" link2="ARM_ROLL_Link" reason="Never" />
+    <disable_collisions link1="ARM_Joint2_Link" link2="base_link" reason="Never" />
+    <disable_collisions link1="ARM_PITCH_Link" link2="ARM_PTZ_Link" reason="Never" />
+    <disable_collisions link1="ARM_PITCH_Link" link2="ARM_ROLL_Link" reason="Adjacent" />
+    <disable_collisions link1="ARM_PITCH_Link" link2="base_link" reason="Never" />
+    <disable_collisions link1="ARM_PTZ_Link" link2="ARM_ROLL_Link" reason="Never" />
+    <disable_collisions link1="ARM_PTZ_Link" link2="base_link" reason="Adjacent" />
+    <disable_collisions link1="ARM_ROLL_Link" link2="base_link" reason="Never" />
+</robot>

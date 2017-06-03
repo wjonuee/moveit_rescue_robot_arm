@@ -1,0 +1,2970 @@
+header: 
+  seq: 5225
+  stamp: 
+    secs: 1493099267
+    nsecs: 855446100
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5226
+  stamp: 
+    secs: 1493099267
+    nsecs: 955369949
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5227
+  stamp: 
+    secs: 1493099268
+    nsecs: 55347919
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5228
+  stamp: 
+    secs: 1493099268
+    nsecs: 155355930
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5229
+  stamp: 
+    secs: 1493099268
+    nsecs: 255400896
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5230
+  stamp: 
+    secs: 1493099268
+    nsecs: 355350017
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5231
+  stamp: 
+    secs: 1493099268
+    nsecs: 455410957
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5232
+  stamp: 
+    secs: 1493099268
+    nsecs: 555314064
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5233
+  stamp: 
+    secs: 1493099268
+    nsecs: 655399084
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5234
+  stamp: 
+    secs: 1493099268
+    nsecs: 755372047
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5235
+  stamp: 
+    secs: 1493099268
+    nsecs: 855422973
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5236
+  stamp: 
+    secs: 1493099268
+    nsecs: 955369949
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5237
+  stamp: 
+    secs: 1493099269
+    nsecs: 55409908
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5238
+  stamp: 
+    secs: 1493099269
+    nsecs: 155355930
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5239
+  stamp: 
+    secs: 1493099269
+    nsecs: 255379915
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5240
+  stamp: 
+    secs: 1493099269
+    nsecs: 355380058
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5241
+  stamp: 
+    secs: 1493099269
+    nsecs: 455394029
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5242
+  stamp: 
+    secs: 1493099269
+    nsecs: 555361032
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5243
+  stamp: 
+    secs: 1493099269
+    nsecs: 655397891
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5244
+  stamp: 
+    secs: 1493099269
+    nsecs: 755364894
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5245
+  stamp: 
+    secs: 1493099269
+    nsecs: 855401039
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5246
+  stamp: 
+    secs: 1493099269
+    nsecs: 955348014
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5247
+  stamp: 
+    secs: 1493099270
+    nsecs: 55417060
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5248
+  stamp: 
+    secs: 1493099270
+    nsecs: 155404090
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5249
+  stamp: 
+    secs: 1493099270
+    nsecs: 255439996
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5250
+  stamp: 
+    secs: 1493099270
+    nsecs: 355389118
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5251
+  stamp: 
+    secs: 1493099270
+    nsecs: 455406904
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5252
+  stamp: 
+    secs: 1493099270
+    nsecs: 555382966
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5253
+  stamp: 
+    secs: 1493099270
+    nsecs: 655422925
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5254
+  stamp: 
+    secs: 1493099270
+    nsecs: 755368947
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5255
+  stamp: 
+    secs: 1493099270
+    nsecs: 855361938
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415479097999905, 0.999933428111137, 0.9999635999087942, 0.9999430199126015, 2.927804087933397, -8.929899823851884e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5256
+  stamp: 
+    secs: 1493099270
+    nsecs: 955754995
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.0017909383666257618, 0.0005700256503530003, 0.000570027949737859, 0.0005700530639435102, 0.001669027423288061, -2.9380131407362977e-08]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5257
+  stamp: 
+    secs: 1493099271
+    nsecs: 55397987
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.017909383604198137, 0.005700256483777509, 0.005700279477626017, 0.005700530619681657, 0.016690274175045577, -2.938013130555513e-07]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5258
+  stamp: 
+    secs: 1493099271
+    nsecs: 155352115
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.03581876695790556, 0.011400512887828024, 0.011400558875524717, 0.01140106115963249, 0.03338054811665159, -5.876026220018322e-07]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5259
+  stamp: 
+    secs: 1493099271
+    nsecs: 255400896
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.05193721162811745, 0.01653074354067121, 0.01653081022283082, 0.016531538534780628, 0.04840179433966943, -8.520237943425394e-07]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5260
+  stamp: 
+    secs: 1493099271
+    nsecs: 355372905
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.07413514235958606, 0.023595972661612993, 0.023596067843684586, 0.023597107435691714, 0.06908869000368516, -1.2161782141793493e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5261
+  stamp: 
+    secs: 1493099271
+    nsecs: 455394983
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.11321914385080738, 0.03603575494759185, 0.03603590030959309, 0.03603748797386749, 0.10551220491424093, -1.8573466212759642e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5262
+  stamp: 
+    secs: 1493099271
+    nsecs: 555326938
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.1649273438409647, 0.052493607924132366, 0.052493819674265293, 0.05249613243907503, 0.15370057666431686, -2.705613506870291e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5263
+  stamp: 
+    secs: 1493099271
+    nsecs: 655369043
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.2229495490568767, 0.07096110288624502, 0.0709613891310577, 0.07096451553726421, 0.20777315306875144, -3.657460899028311e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5264
+  stamp: 
+    secs: 1493099271
+    nsecs: 755362033
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.2842794970512582, 0.09048139690813206, 0.09048176189443385, 0.09048574832628678, 0.2649283109340154, -4.663571418999205e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5265
+  stamp: 
+    secs: 1493099271
+    nsecs: 855392932
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.3600308193442544, 0.11459177254128076, 0.11459223478466674, 0.11459728347210693, 0.3355231659069125, -5.9062628732243265e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5266
+  stamp: 
+    secs: 1493099271
+    nsecs: 955374956
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.43751503541172027, 0.13925369920443267, 0.1392542609297643, 0.1392603961730421, 0.4077329548636542, -7.177382244209557e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5267
+  stamp: 
+    secs: 1493099272
+    nsecs: 55376052
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.5335984658125429, 0.16983544390487496, 0.16983612899167402, 0.169843611606294, 0.49727589126559296, -8.753619519512885e-06]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5268
+  stamp: 
+    secs: 1493099272
+    nsecs: 155365943
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.6190482741028013, 0.19703268499975626, 0.19703347979552077, 0.19704216066693073, 0.576909046715744, -1.0155413485785301e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5269
+  stamp: 
+    secs: 1493099272
+    nsecs: 255383014
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.7199478904455401, 0.229147340924237, 0.22914826526496762, 0.22915836104476425, 0.6709403265260923, -1.1810659720019127e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5270
+  stamp: 
+    secs: 1493099272
+    nsecs: 355364084
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.8153976979507137, 0.2595274140820391, 0.25952846097072907, 0.2595398952366176, 0.7598927713686517, -1.3376502486899502e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5271
+  stamp: 
+    secs: 1493099272
+    nsecs: 455442905
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [0.9108475030328014, 0.28990748646861364, 0.2899086559052598, 0.28992142865720616, 0.8488452139530668, -1.494234521402944e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5272
+  stamp: 
+    secs: 1493099272
+    nsecs: 555398941
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.001747123402764, 0.31883931136209204, 0.3188405975047146, 0.3188546449357912, 0.9335572073924503, -1.643354270084221e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5273
+  stamp: 
+    secs: 1493099272
+    nsecs: 655392885
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.0971969302416735, 0.3492193843078335, 0.3492207929984146, 0.3492361789155736, 1.0225096516140988, -1.79993854567926e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5274
+  stamp: 
+    secs: 1493099272
+    nsecs: 755383014
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.1880965480357613, 0.37815120838145405, 0.37815273377800823, 0.3781693943742615, 1.1072216426529495, -1.9490582901348454e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5275
+  stamp: 
+    secs: 1493099272
+    nsecs: 855391025
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.283546355637853, 0.40853128157010365, 0.4085329295146173, 0.4085509285969638, 1.19617408758583, -2.1056425669818763e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5276
+  stamp: 
+    secs: 1493099272
+    nsecs: 955382108
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.3744459726687583, 0.4374631054008161, 0.43746487005130186, 0.4374841438127318, 1.280886077913449, -2.25476231018547e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5277
+  stamp: 
+    secs: 1493099273
+    nsecs: 55396080
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.4698957804122756, 0.46784317863447905, 0.4678450658329244, 0.4678656780804495, 1.3698385229781278, -2.411346587264507e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5278
+  stamp: 
+    secs: 1493099273
+    nsecs: 155383110
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.5653455852560196, 0.4982232509451927, 0.498225260691594, 0.49824721142517364, 1.4587909653404234, -2.567930859586501e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5279
+  stamp: 
+    secs: 1493099273
+    nsecs: 255399942
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.6562452051400616, 0.5271550756840107, 0.5271572021363877, 0.5271804275490909, 1.543502958326963, -2.7170506074706307e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5280
+  stamp: 
+    secs: 1493099273
+    nsecs: 355400085
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.7516950122717279, 0.5575351487229316, 0.5575373977232676, 0.5575619616220573, 1.6324554028214402, -2.873634883545934e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5281
+  stamp: 
+    secs: 1493099273
+    nsecs: 455415964
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.8425946302589795, 0.5864669728580333, 0.5864693385643425, 0.5864951771422291, 1.7171673940403063, -3.0227546283184027e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5282
+  stamp: 
+    secs: 1493099273
+    nsecs: 555388927
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [1.9380444383011173, 0.616847046186742, 0.6168495344410113, 0.6168767115049971, 1.806119839383278, -3.179338905887323e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5283
+  stamp: 
+    secs: 1493099273
+    nsecs: 655391931
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.028944054891977, 0.6457788698773953, 0.6457814748376361, 0.6458099265806994, 1.8908318293008057, -3.328458648369027e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5284
+  stamp: 
+    secs: 1493099273
+    nsecs: 755383968
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.1243938626354937, 0.6761589431110581, 0.6761616706192586, 0.676191460848417, 1.979784274365484, -3.485042925448064e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5285
+  stamp: 
+    secs: 1493099273
+    nsecs: 855375051
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.2198436674792377, 0.7065390154217719, 0.7065418654779283, 0.7065729941931412, 2.06873671672778, -3.641627197770058e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5286
+  stamp: 
+    secs: 1493099273
+    nsecs: 955416917
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.3107432876688567, 0.7354708402578499, 0.7354738070199826, 0.7355062104143233, 2.1534487099990964, -3.790746946155484e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5287
+  stamp: 
+    secs: 1493099274
+    nsecs: 55371999
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.4061930943990553, 0.7658509131689905, 0.7658540024790813, 0.7658877443595029, 2.2424011541194337, -3.9473312215721836e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5288
+  stamp: 
+    secs: 1493099274
+    nsecs: 155369997
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.4970927124821976, 0.7947827373346122, 0.7947859433506766, 0.7948209599101965, 2.3271131454276626, -4.0964509665019596e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5289
+  stamp: 
+    secs: 1493099274
+    nsecs: 255331993
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.592542519654239, 0.8251628103863841, 0.8251661389504074, 0.8252024939960145, 2.4160655899597674, -4.253035242643498e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5290
+  stamp: 
+    secs: 1493099274
+    nsecs: 355370998
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.6834421371151946, 0.8540946343539743, 0.8540980796239702, 0.8541357093486668, 2.5007775806881622, -4.402154986552584e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5291
+  stamp: 
+    secs: 1493099274
+    nsecs: 455429077
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.765282834649402, 0.8801431560153721, 0.8801467063605981, 0.8801854837317725, 2.577047301115766, -4.536413679807085e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5292
+  stamp: 
+    secs: 1493099274
+    nsecs: 555392026
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.8443154393674948, 0.9052979088215228, 0.9053015606366699, 0.9053414462766294, 2.6507000783785046, -4.66606573011513e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5293
+  stamp: 
+    secs: 1493099274
+    nsecs: 655401945
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.9130417166604934, 0.9271723304321849, 0.9271760704849644, 0.927216919868788, 2.714748090102453, -4.778810372568207e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5294
+  stamp: 
+    secs: 1493099274
+    nsecs: 755386114
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [2.9676618896957185, 0.9445570155989098, 0.9445608257785016, 0.9446024410972585, 2.765650214016569, -4.8684141183571395e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5295
+  stamp: 
+    secs: 1493099274
+    nsecs: 855400085
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.0194525669909518, 0.9610411197186175, 0.9610449963922336, 0.9610873379680993, 2.813915448760111, -4.953376109956947e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5296
+  stamp: 
+    secs: 1493099274
+    nsecs: 955377101
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.0588788164296186, 0.9735898337872082, 0.9735937610801659, 0.9736366555276185, 2.8506579144623267, -5.018054404363577e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5297
+  stamp: 
+    secs: 1493099275
+    nsecs: 55382966
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.086886616648881, 0.9825042469420399, 0.9825082101941977, 0.9825514973931085, 2.8767591960603056, -5.064000868307137e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5298
+  stamp: 
+    secs: 1493099275
+    nsecs: 155389070
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.103005061948514, 0.9876344777952171, 0.9876384617418384, 0.9876819749686003, 2.8917804428698983, -5.090442986573764e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5299
+  stamp: 
+    secs: 1493099275
+    nsecs: 255388975
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.120914445568687, 0.9933347342840795, 0.9933387412245492, 0.9933825055933669, 2.9084707170598314, -5.119823117905526e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5300
+  stamp: 
+    secs: 1493099275
+    nsecs: 355377912
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.137032890645945, 0.9984649650664786, 0.9984689927014122, 0.9985129830980771, 2.923491963662187, -5.1462652358073515e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5301
+  stamp: 
+    secs: 1493099275
+    nsecs: 455404043
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5302
+  stamp: 
+    secs: 1493099275
+    nsecs: 555371046
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5303
+  stamp: 
+    secs: 1493099275
+    nsecs: 655410051
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5304
+  stamp: 
+    secs: 1493099275
+    nsecs: 755376100
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5305
+  stamp: 
+    secs: 1493099275
+    nsecs: 855407953
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5306
+  stamp: 
+    secs: 1493099275
+    nsecs: 955383062
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5307
+  stamp: 
+    secs: 1493099276
+    nsecs: 55401086
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5308
+  stamp: 
+    secs: 1493099276
+    nsecs: 155369043
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5309
+  stamp: 
+    secs: 1493099276
+    nsecs: 255356073
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5310
+  stamp: 
+    secs: 1493099276
+    nsecs: 355307102
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5311
+  stamp: 
+    secs: 1493099276
+    nsecs: 455336093
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5312
+  stamp: 
+    secs: 1493099276
+    nsecs: 555391073
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5313
+  stamp: 
+    secs: 1493099276
+    nsecs: 655421018
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5314
+  stamp: 
+    secs: 1493099276
+    nsecs: 755383968
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5315
+  stamp: 
+    secs: 1493099276
+    nsecs: 855413913
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5316
+  stamp: 
+    secs: 1493099276
+    nsecs: 955379009
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5317
+  stamp: 
+    secs: 1493099277
+    nsecs: 55409908
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5318
+  stamp: 
+    secs: 1493099277
+    nsecs: 155395984
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5319
+  stamp: 
+    secs: 1493099277
+    nsecs: 255405902
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5320
+  stamp: 
+    secs: 1493099277
+    nsecs: 355387926
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5321
+  stamp: 
+    secs: 1493099277
+    nsecs: 455415010
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5322
+  stamp: 
+    secs: 1493099277
+    nsecs: 555387973
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5323
+  stamp: 
+    secs: 1493099277
+    nsecs: 655417919
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5324
+  stamp: 
+    secs: 1493099277
+    nsecs: 755373001
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5325
+  stamp: 
+    secs: 1493099277
+    nsecs: 855412960
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5326
+  stamp: 
+    secs: 1493099277
+    nsecs: 955374956
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5327
+  stamp: 
+    secs: 1493099278
+    nsecs: 55403947
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5328
+  stamp: 
+    secs: 1493099278
+    nsecs: 155381917
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5329
+  stamp: 
+    secs: 1493099278
+    nsecs: 255404949
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5330
+  stamp: 
+    secs: 1493099278
+    nsecs: 355326890
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5331
+  stamp: 
+    secs: 1493099278
+    nsecs: 455415010
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5332
+  stamp: 
+    secs: 1493099278
+    nsecs: 555393934
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5333
+  stamp: 
+    secs: 1493099278
+    nsecs: 655529022
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5334
+  stamp: 
+    secs: 1493099278
+    nsecs: 755296945
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5335
+  stamp: 
+    secs: 1493099278
+    nsecs: 855400085
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5336
+  stamp: 
+    secs: 1493099278
+    nsecs: 955373048
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5337
+  stamp: 
+    secs: 1493099279
+    nsecs: 55402040
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5338
+  stamp: 
+    secs: 1493099279
+    nsecs: 155373096
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5339
+  stamp: 
+    secs: 1493099279
+    nsecs: 255450963
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5340
+  stamp: 
+    secs: 1493099279
+    nsecs: 355365037
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5341
+  stamp: 
+    secs: 1493099279
+    nsecs: 455405950
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5342
+  stamp: 
+    secs: 1493099279
+    nsecs: 555370092
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5343
+  stamp: 
+    secs: 1493099279
+    nsecs: 655405998
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5344
+  stamp: 
+    secs: 1493099279
+    nsecs: 755362987
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5345
+  stamp: 
+    secs: 1493099279
+    nsecs: 855379104
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5346
+  stamp: 
+    secs: 1493099279
+    nsecs: 955363035
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5347
+  stamp: 
+    secs: 1493099280
+    nsecs: 55310010
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5348
+  stamp: 
+    secs: 1493099280
+    nsecs: 155364036
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5349
+  stamp: 
+    secs: 1493099280
+    nsecs: 255306959
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5350
+  stamp: 
+    secs: 1493099280
+    nsecs: 355372905
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5351
+  stamp: 
+    secs: 1493099280
+    nsecs: 455384969
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5352
+  stamp: 
+    secs: 1493099280
+    nsecs: 555455923
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5353
+  stamp: 
+    secs: 1493099280
+    nsecs: 655427932
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5354
+  stamp: 
+    secs: 1493099280
+    nsecs: 755383014
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5355
+  stamp: 
+    secs: 1493099280
+    nsecs: 855391979
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5356
+  stamp: 
+    secs: 1493099280
+    nsecs: 955370903
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5357
+  stamp: 
+    secs: 1493099281
+    nsecs: 55399894
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5358
+  stamp: 
+    secs: 1493099281
+    nsecs: 155374050
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5359
+  stamp: 
+    secs: 1493099281
+    nsecs: 255424976
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5360
+  stamp: 
+    secs: 1493099281
+    nsecs: 355366945
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5361
+  stamp: 
+    secs: 1493099281
+    nsecs: 455333948
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5362
+  stamp: 
+    secs: 1493099281
+    nsecs: 555381059
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5363
+  stamp: 
+    secs: 1493099281
+    nsecs: 655392885
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5364
+  stamp: 
+    secs: 1493099281
+    nsecs: 755381107
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5365
+  stamp: 
+    secs: 1493099281
+    nsecs: 855439901
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5366
+  stamp: 
+    secs: 1493099281
+    nsecs: 955368041
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5367
+  stamp: 
+    secs: 1493099282
+    nsecs: 55377006
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5368
+  stamp: 
+    secs: 1493099282
+    nsecs: 155375957
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5369
+  stamp: 
+    secs: 1493099282
+    nsecs: 255403041
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5370
+  stamp: 
+    secs: 1493099282
+    nsecs: 355374097
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5371
+  stamp: 
+    secs: 1493099282
+    nsecs: 455353021
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5372
+  stamp: 
+    secs: 1493099282
+    nsecs: 555367946
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5373
+  stamp: 
+    secs: 1493099282
+    nsecs: 655406951
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5374
+  stamp: 
+    secs: 1493099282
+    nsecs: 755314111
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5375
+  stamp: 
+    secs: 1493099282
+    nsecs: 855401039
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5376
+  stamp: 
+    secs: 1493099282
+    nsecs: 955364942
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5377
+  stamp: 
+    secs: 1493099283
+    nsecs: 55423021
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5378
+  stamp: 
+    secs: 1493099283
+    nsecs: 155384063
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5379
+  stamp: 
+    secs: 1493099283
+    nsecs: 255382061
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5380
+  stamp: 
+    secs: 1493099283
+    nsecs: 355386018
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5381
+  stamp: 
+    secs: 1493099283
+    nsecs: 455437898
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5382
+  stamp: 
+    secs: 1493099283
+    nsecs: 555794954
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5383
+  stamp: 
+    secs: 1493099283
+    nsecs: 655417919
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5384
+  stamp: 
+    secs: 1493099283
+    nsecs: 755372047
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5385
+  stamp: 
+    secs: 1493099283
+    nsecs: 855443000
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5386
+  stamp: 
+    secs: 1493099283
+    nsecs: 955382108
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5387
+  stamp: 
+    secs: 1493099284
+    nsecs: 55445909
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5388
+  stamp: 
+    secs: 1493099284
+    nsecs: 155379056
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5389
+  stamp: 
+    secs: 1493099284
+    nsecs: 255412101
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5390
+  stamp: 
+    secs: 1493099284
+    nsecs: 355391025
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5391
+  stamp: 
+    secs: 1493099284
+    nsecs: 455415964
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5392
+  stamp: 
+    secs: 1493099284
+    nsecs: 555368900
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5393
+  stamp: 
+    secs: 1493099284
+    nsecs: 655416011
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5394
+  stamp: 
+    secs: 1493099284
+    nsecs: 755381107
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5395
+  stamp: 
+    secs: 1493099284
+    nsecs: 855406045
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5396
+  stamp: 
+    secs: 1493099284
+    nsecs: 955385923
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5397
+  stamp: 
+    secs: 1493099285
+    nsecs: 55397987
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5398
+  stamp: 
+    secs: 1493099285
+    nsecs: 155390024
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5399
+  stamp: 
+    secs: 1493099285
+    nsecs: 255419015
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5400
+  stamp: 
+    secs: 1493099285
+    nsecs: 355389118
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5401
+  stamp: 
+    secs: 1493099285
+    nsecs: 455423116
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5402
+  stamp: 
+    secs: 1493099285
+    nsecs: 555376052
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5403
+  stamp: 
+    secs: 1493099285
+    nsecs: 655335903
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5404
+  stamp: 
+    secs: 1493099285
+    nsecs: 755364894
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5405
+  stamp: 
+    secs: 1493099285
+    nsecs: 855403900
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5406
+  stamp: 
+    secs: 1493099285
+    nsecs: 955363988
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5407
+  stamp: 
+    secs: 1493099286
+    nsecs: 55448055
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5408
+  stamp: 
+    secs: 1493099286
+    nsecs: 155292987
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5409
+  stamp: 
+    secs: 1493099286
+    nsecs: 255399942
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5410
+  stamp: 
+    secs: 1493099286
+    nsecs: 355379104
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5411
+  stamp: 
+    secs: 1493099286
+    nsecs: 455528020
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5412
+  stamp: 
+    secs: 1493099286
+    nsecs: 555382013
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5413
+  stamp: 
+    secs: 1493099286
+    nsecs: 655409097
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5414
+  stamp: 
+    secs: 1493099286
+    nsecs: 755371093
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5415
+  stamp: 
+    secs: 1493099286
+    nsecs: 855390071
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5416
+  stamp: 
+    secs: 1493099286
+    nsecs: 955317974
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5417
+  stamp: 
+    secs: 1493099287
+    nsecs: 55394887
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5418
+  stamp: 
+    secs: 1493099287
+    nsecs: 155361890
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5419
+  stamp: 
+    secs: 1493099287
+    nsecs: 255294084
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5420
+  stamp: 
+    secs: 1493099287
+    nsecs: 355386972
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5421
+  stamp: 
+    secs: 1493099287
+    nsecs: 455420017
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5422
+  stamp: 
+    secs: 1493099287
+    nsecs: 555385112
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5423
+  stamp: 
+    secs: 1493099287
+    nsecs: 655409097
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5424
+  stamp: 
+    secs: 1493099287
+    nsecs: 755363941
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5425
+  stamp: 
+    secs: 1493099287
+    nsecs: 855398893
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5426
+  stamp: 
+    secs: 1493099287
+    nsecs: 955306053
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5427
+  stamp: 
+    secs: 1493099288
+    nsecs: 55404901
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5428
+  stamp: 
+    secs: 1493099288
+    nsecs: 155364990
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5429
+  stamp: 
+    secs: 1493099288
+    nsecs: 255402088
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5430
+  stamp: 
+    secs: 1493099288
+    nsecs: 355375051
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5431
+  stamp: 
+    secs: 1493099288
+    nsecs: 455317974
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5432
+  stamp: 
+    secs: 1493099288
+    nsecs: 555367946
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5433
+  stamp: 
+    secs: 1493099288
+    nsecs: 655329942
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5434
+  stamp: 
+    secs: 1493099288
+    nsecs: 755368947
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5435
+  stamp: 
+    secs: 1493099288
+    nsecs: 855407953
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5436
+  stamp: 
+    secs: 1493099288
+    nsecs: 955379009
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5437
+  stamp: 
+    secs: 1493099289
+    nsecs: 55397987
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5438
+  stamp: 
+    secs: 1493099289
+    nsecs: 155378103
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5439
+  stamp: 
+    secs: 1493099289
+    nsecs: 255403041
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5440
+  stamp: 
+    secs: 1493099289
+    nsecs: 355387926
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5441
+  stamp: 
+    secs: 1493099289
+    nsecs: 455406904
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5442
+  stamp: 
+    secs: 1493099289
+    nsecs: 555380105
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5443
+  stamp: 
+    secs: 1493099289
+    nsecs: 655406951
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5444
+  stamp: 
+    secs: 1493099289
+    nsecs: 755373001
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5445
+  stamp: 
+    secs: 1493099289
+    nsecs: 855412960
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5446
+  stamp: 
+    secs: 1493099289
+    nsecs: 955363988
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5447
+  stamp: 
+    secs: 1493099290
+    nsecs: 55411100
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5448
+  stamp: 
+    secs: 1493099290
+    nsecs: 155378103
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5449
+  stamp: 
+    secs: 1493099290
+    nsecs: 255413055
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5450
+  stamp: 
+    secs: 1493099290
+    nsecs: 355372905
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5451
+  stamp: 
+    secs: 1493099290
+    nsecs: 455410003
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5452
+  stamp: 
+    secs: 1493099290
+    nsecs: 555377006
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5453
+  stamp: 
+    secs: 1493099290
+    nsecs: 655405044
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5454
+  stamp: 
+    secs: 1493099290
+    nsecs: 755367040
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5455
+  stamp: 
+    secs: 1493099290
+    nsecs: 855392932
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5456
+  stamp: 
+    secs: 1493099290
+    nsecs: 955369949
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5457
+  stamp: 
+    secs: 1493099291
+    nsecs: 55411100
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5458
+  stamp: 
+    secs: 1493099291
+    nsecs: 155375957
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5459
+  stamp: 
+    secs: 1493099291
+    nsecs: 255409002
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5460
+  stamp: 
+    secs: 1493099291
+    nsecs: 355377912
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5461
+  stamp: 
+    secs: 1493099291
+    nsecs: 455358982
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5462
+  stamp: 
+    secs: 1493099291
+    nsecs: 555366039
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5463
+  stamp: 
+    secs: 1493099291
+    nsecs: 655433893
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5464
+  stamp: 
+    secs: 1493099291
+    nsecs: 755371093
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5465
+  stamp: 
+    secs: 1493099291
+    nsecs: 855314016
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5466
+  stamp: 
+    secs: 1493099291
+    nsecs: 955385923
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5467
+  stamp: 
+    secs: 1493099292
+    nsecs: 55371046
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5468
+  stamp: 
+    secs: 1493099292
+    nsecs: 155375957
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5469
+  stamp: 
+    secs: 1493099292
+    nsecs: 255403041
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5470
+  stamp: 
+    secs: 1493099292
+    nsecs: 355377912
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5471
+  stamp: 
+    secs: 1493099292
+    nsecs: 455338001
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5472
+  stamp: 
+    secs: 1493099292
+    nsecs: 555351018
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5473
+  stamp: 
+    secs: 1493099292
+    nsecs: 655338048
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5474
+  stamp: 
+    secs: 1493099292
+    nsecs: 755374908
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5475
+  stamp: 
+    secs: 1493099292
+    nsecs: 855412006
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5476
+  stamp: 
+    secs: 1493099292
+    nsecs: 955382108
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5477
+  stamp: 
+    secs: 1493099293
+    nsecs: 55419921
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5478
+  stamp: 
+    secs: 1493099293
+    nsecs: 155401945
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5479
+  stamp: 
+    secs: 1493099293
+    nsecs: 255434036
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5480
+  stamp: 
+    secs: 1493099293
+    nsecs: 355398893
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5481
+  stamp: 
+    secs: 1493099293
+    nsecs: 455420017
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5482
+  stamp: 
+    secs: 1493099293
+    nsecs: 555373907
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5483
+  stamp: 
+    secs: 1493099293
+    nsecs: 655415058
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5484
+  stamp: 
+    secs: 1493099293
+    nsecs: 755424022
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5485
+  stamp: 
+    secs: 1493099293
+    nsecs: 855428934
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5486
+  stamp: 
+    secs: 1493099293
+    nsecs: 955368995
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5487
+  stamp: 
+    secs: 1493099294
+    nsecs: 55406093
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5488
+  stamp: 
+    secs: 1493099294
+    nsecs: 155373096
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5489
+  stamp: 
+    secs: 1493099294
+    nsecs: 255393981
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5490
+  stamp: 
+    secs: 1493099294
+    nsecs: 355385065
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5491
+  stamp: 
+    secs: 1493099294
+    nsecs: 455419063
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5492
+  stamp: 
+    secs: 1493099294
+    nsecs: 555366039
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5493
+  stamp: 
+    secs: 1493099294
+    nsecs: 655313968
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 5494
+  stamp: 
+    secs: 1493099294
+    nsecs: 755372047
+  frame_id: ''
+name: ['ARM_PTZ_Joint', 'ARM_Joint1', 'ARM_Joint2', 'ARM_PITCH_Joint', 'ARM_ROLL_Joint', 'ARM_GRIPPER_Joint']
+position: [3.1415907946714476, 0.9999156694875797, 0.9999197029744042, 0.9999637572862441, 2.927739606659312, -5.153742423281074e-05]
+velocity: []
+effort: []
+---

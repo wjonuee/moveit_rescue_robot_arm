@@ -1,0 +1,9 @@
+controller_list:
+  - name: fake_Arm_controller
+    joints:
+      - ARM_PTZ_Joint
+      - ARM_Joint1
+      - ARM_Joint2
+      - ARM_PITCH_Joint
+      - ARM_ROLL_Joint
+      - ARM_GRIPPER_Joint

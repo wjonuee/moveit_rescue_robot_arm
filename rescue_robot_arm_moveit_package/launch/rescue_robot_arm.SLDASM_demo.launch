@@ -1,0 +1,50 @@
+<launch>
+
+  <!-- By default, we are not in debug mode -->
+  <arg name="debug" default="false" />
+   
+  <arg name="config" default="true"/>
+  
+  <arg name="rviz_config" default="$(find rescue_robot_arm_moveit_package)/launch/moveit.rviz" />
+ 
+   <!-- Load the URDF, SRDF and other .yaml configuration files on the param server -->
+  <include file="$(find rescue_robot_arm_moveit_package)/launch/planning_context.launch">
+    <arg name="load_robot_description" value="true"/>
+  </include> 
+
+   <!-- If needed, broadcast static tf for robot root -->
+
+  <!-- Given the published joint states, publish tf for the robot links -->
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" respawn="true" output="screen">
+    <remap from="/joint_states" to="/robot/joint_states" />
+  </node>
+
+  <!-- Run the main MoveIt executable withtrajectory execution -->  
+  <include file="$(find rescue_robot_arm_moveit_package)/launch/move_group.launch">
+    <arg name="allow_trajectory_execution" value="true"/>
+  </include>
+
+<!-- Run Rviz and load the default config to see the state of the move_group node -->
+  <include file="$(find rescue_robot_arm_moveit_package)/launch/moveit_rviz.launch">
+    <arg name="config" value="$(arg config)" />
+    <arg name="rviz_config" value="$(arg rviz_config)" />
+    <arg name="debug" value="$(arg debug)"/>
+  </include>
+
+  <!-- Run the rescue_robot_arm_joint_trajectory_controller node, this node create an action server (JointTrajectoryActionServer()), which receive an action client goal about joint trajectoin of moveit; and publish an /joint_states topic.  -->  
+  <node name="rescue_robot_arm_joint_trajectory_controller" pkg="rescue_robot_arm_moveit_package" type="rescue_robot_arm_joint_trajectory_controller.py">
+    <!-- without real robot, can change the /joint_states topic name to /robot/joint_states, which can direct communicate with moveit -->
+    <!-- remap from="/joint_states" to="/robot/joint_states" /-->
+  </node>
+
+  <!-- If this package is installed, setting 'db' as 'false' or db_path to user permission dir is required. -->
+  <!-- By default, we do not start a database (it can be large) -->
+  <arg name="db" default="false" />
+  <arg name="db_path" default="$(find rescue_robot_arm_moveit_package)/default_warehouse_mongo_db" />
+  <group if="$(arg db)">
+    <include file="$(find rescue_robot_arm_moveit_package)/launch/default_warehouse_db.launch">
+      <arg name="moveit_warehouse_database_path" value="$(arg db_path)" />
+    </include>
+  </group>
+</launch>
+
