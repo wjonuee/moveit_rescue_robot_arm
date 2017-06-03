@@ -1,0 +1,53 @@
+#ifndef JOINT_H_
+#define JOINT_H_
+#include <iostream>
+#include <fstream>
+#include <strings.h>
+#include <cstring>
+#include <cstdlib>
+#include <cerrno>
+#include <stdio.h>
+#include <unistd.h>
+#include <sys/types.h>
+
+using namespace std;
+
+typedef struct _ARM
+{
+	double arm_ptz;
+	double arm_joint1;
+	double arm_joint2;
+	double arm_stretch;
+	double arm_pitch;
+	double arm_roll;
+	double arm_gripper;
+} ARM_JOINT_POSITION;
+
+class Joint
+{
+public:
+	Joint();
+	virtual ~Joint();
+	double arm_PTZ_real_2_moveit();
+	double arm_PTZ_moveit_2_real();
+	
+	double arm_Joint1_real_2_moveit();
+	double arm_Joint1_moveit_2_real();
+	
+	double arm_Joint2_real_2_moveit();
+	double arm_Joint2_moveit_2_real();
+	
+	double arm_Pitch_real_2_moveit();
+	double arm_Pitch_moveit_2_real();
+	
+	double arm_Roll_real_2_moveit();
+	double arm_Roll_moveit_2_real();
+	
+	double arm_Gripper_real_2_moveit();
+	double arm_Gripper_moveit_2_real();
+	
+	ARM_JOINT_POSITION* arm_real_joint;
+	ARM_JOINT_POSITION* arm_moveit_joint;
+};
+
+#endif /* JOINT_H_ */

@@ -1,0 +1,277 @@
+#include <ros/ros.h>
+#include <std_msgs/String.h>
+
+//Publish
+#include <sensor_msgs/JointState.h>
+
+//Subscribe
+#include <control_msgs/FollowJointTrajectoryActionGoal.h>
+//#include <control_msgs/FollowJointTrajectoryResult.h>
+#include <trajectory_msgs/JointTrajectoryPoint.h>
+
+//#include <actionlib/server/simple_action_server.h>	//Actionlib
+
+#include "Command.h"
+#include "Connect.h"
+
+#include <iostream>
+
+using namespace std;
+
+typedef struct _ARM
+{
+	double arm_ptz;
+	double arm_joint1;
+	double arm_joint2;
+	double arm_stretch;
+	double arm_pitch;
+	double arm_roll;
+	double arm_gripper;
+} ARM_JOINT;
+
+//m_connect = new Connection;	
+Connection* m_connect = new Connection;
+ 
+long int last_point_num = 0;
+
+//typedef actionlib::ActionServer<control_msgs::FollowJointTrajectoryAction> Server;
+
+/*void arm_command_callback(const control_msgs::FollowJointTrajectoryGoalConstPtr& goal)
+{
+	ARM_JOINT arm_goal;
+
+	goal->points.positions[0] = arm_goal.arm_ptz;
+	goal->points.positions[1] = arm_goal.arm_joint1;
+	goal->points.positions[2] = arm_goal.arm_joint2;
+	goal->points.positions[3] = arm_goal.arm_pitch;
+	goal->points.positions[4] = arm_goal.arm_roll;
+	goal->points.positions[5] = arm_goal.arm_gripper;
+
+	char goal_position[150];
+	sprintf(goal_position,"ARMSETV3 {Type Direct} {Name Position} {PTZ %f} {Joint1 %f} {Joint2 %f} {Stretch %f} {Pitch %f} {Roll %f} {Gripper %f}\r\n",arm_goal.arm_ptz, arm_goal.arm_joint1, arm_goal.arm_joint2, arm_goal.arm_stretch, arm_goal.arm_pitch, arm_goal.arm_roll, arm_goal.arm_gripper);
+	string goal_position_str(goal_position);
+	
+	m_connect->sendMsg(goal_position_str);
+	cout<<goal_position_str<<endl;
+}*/
+void arm_command_callback(const sensor_msgs::JointState::ConstPtr& arm_joint_states);
+
+void arm_command_callback(const sensor_msgs::JointState::ConstPtr& arm_joint_states)
+{
+	ARM_JOINT arm_end_position;
+
+	//arm_joint_states->position.resize(6);
+	arm_end_position.arm_ptz = arm_joint_states->position[0];
+	arm_end_position.arm_joint1 = arm_joint_states->position[1];
+	arm_end_position.arm_joint2 = arm_joint_states->position[2];
+	arm_end_position.arm_pitch = arm_joint_states->position[3];
+	arm_end_position.arm_roll = arm_joint_states->position[4];
+	arm_end_position.arm_gripper = arm_joint_states->position[5];
+
+	arm_end_position.arm_stretch = 0;
+
+	char end_position[255];
+	sprintf(end_position,"ARMSETV3 {Type Direct} {Name Position} {PTZ %f} {Joint1 %f} {Joint2 %f} {Stretch %f} {Pitch %f} {Roll %f} {Gripper %f}\r\n",arm_end_position.arm_ptz, arm_end_position.arm_joint1, arm_end_position.arm_joint2, arm_end_position.arm_stretch, arm_end_position.arm_pitch, arm_end_position.arm_roll, arm_end_position.arm_gripper);
+	string end_position_str(end_position);
+	
+	//m_connect->sendMsg(end_position_str);
+	cout<<end_position_str<<endl;
+}
+
+void arm_goal_callback(const control_msgs::FollowJointTrajectoryActionGoal::ConstPtr& arm_trajectory_goal);
+
+void arm_goal_callback(const control_msgs::FollowJointTrajectoryActionGoal::ConstPtr& arm_trajectory_goal)
+{
+	ARM_JOINT arm_planning_point;
+	
+	last_point_num = sizeof(arm_trajectory_goal->goal.trajectory.points)/sizeof(arm_trajectory_goal->goal.trajectory.points[0]) -1;
+	
+	arm_planning_point.arm_ptz = arm_trajectory_goal->goal.trajectory.points[last_point_num].positions[0];
+	arm_planning_point.arm_joint1 = arm_trajectory_goal->goal.trajectory.points[last_point_num].positions[1];
+	arm_planning_point.arm_joint2 = arm_trajectory_goal->goal.trajectory.points[last_point_num].positions[2];
+	arm_planning_point.arm_pitch = arm_trajectory_goal->goal.trajectory.points[last_point_num].positions[3];
+	arm_planning_point.arm_roll = arm_trajectory_goal->goal.trajectory.points[last_point_num].positions[4];
+	arm_planning_point.arm_gripper = arm_trajectory_goal->goal.trajectory.points[last_point_num].positions[5];
+
+	arm_planning_point.arm_stretch = 0;
+
+	char planning_point[255];
+	sprintf(planning_point,"ARMSETV3 {Type Direct} {Name Position} {PTZ %f} {Joint1 %f} {Joint2 %f} {Stretch %f} {Pitch %f} {Roll %f} {Gripper %f}\r\n",arm_planning_point.arm_ptz, arm_planning_point.arm_joint1, arm_planning_point.arm_joint2, arm_planning_point.arm_stretch, arm_planning_point.arm_pitch, arm_planning_point.arm_roll, arm_planning_point.arm_gripper);
+	string planning_point_str(planning_point);
+	
+	//m_connect->sendMsg(planning_point_str);
+	cout<<planning_point_str<<endl;
+}
+
+int main(int argc, char ** argv)
+{
+	
+
+	ros::init(argc, argv, "tcp2ros_driver");
+	ros::NodeHandle n;
+	//ros::Publisher arm_feedback_pub = n.advertise<std_msgs::String>("arm_feedback", 1000);
+	ros::Publisher joint_state_pub  = n.advertise<sensor_msgs::JointState>("/robot/joint_states",1000);
+	
+	ros::Subscriber arm_command_sub = n.subscribe("/joint_states",1000,arm_command_callback);
+	ros::Subscriber arm_goal_sub = n.subscribe("/rescue_robot_arm_controller/follow_joint_trajectory/goal",1000,arm_goal_callback);
+	//Server server(n, "rescue_robot_arm_controller/follow_joint_trajectory", boost::bind(&arm_command_callback, &server ,_1), false);
+	//server.start();
+	
+	
+
+	//Command* m_command;
+	//m_command = new Command;
+
+	if(m_connect->Oninit("192.168.1.114",10000))
+	{
+		cout<<"connect success!"<<endl;
+		m_connect ->sendMsg("REG {Mode WR} {Period 100}\r\n");
+	}
+	else
+	{
+		cout<<"connect failed!"<<endl;
+	}
+		
+	char* arm_feedback_rcvbuffer;
+	arm_feedback_rcvbuffer = new char[4096 * 5];
+
+	ARM_JOINT feedback;
+
+	feedback.arm_ptz = 0;
+	feedback.arm_joint1 = 0;
+	feedback.arm_joint2 = 0;
+	feedback.arm_pitch = 0;
+	feedback.arm_roll = 0;
+	feedback.arm_gripper = 0;
+	
+	feedback.arm_stretch = 0;
+
+	ros::Time current_time, last_time;
+	current_time = ros::Time::now();
+	last_time = ros::Time::now();
+
+	//long count = 0;
+	
+	ros::Rate loop_rate(5.0);
+	while(n.ok())
+	{
+		//current_time = ros::Time::now();
+
+		if(m_connect->recvMsg() != -1)
+		{
+			ROS_INFO("receive arm feedback data");
+			//cout<<m_connect->rcvbuffer<<endl;
+		}
+		else
+		{
+			ROS_INFO("receive arm feedback data ERROR!");
+		}
+
+		if(m_connect->recv_size > 0)
+		{
+			bzero(arm_feedback_rcvbuffer, 4096*5);
+			memmove(arm_feedback_rcvbuffer, m_connect->rcvbuffer, m_connect->recv_size);
+			string str(arm_feedback_rcvbuffer);
+
+			int p1, p2;
+			string temp;
+			p1 = str.find("SEN {Type Arm} {Name Position}");
+			if(p1 < 0)
+			{
+				ROS_INFO("can't find arm feedback data");
+				//continue;
+			}
+			else
+			{
+				p1 = str.find("{PTZ" , p1);
+				p2 = str.find("}", p1);
+				temp = str.substr(p1 + 6, p2 - p1 -6);
+				feedback.arm_ptz = atof(temp.c_str())/1000.0;
+			
+				p1 = str.find("{Joint1" , p2);
+				p2 = str.find("}", p1);
+				temp = str.substr(p1 + 6, p2 - p1 -6);
+				feedback.arm_joint1 = atof(temp.c_str())/1000.0;
+
+				p1 = str.find("{Joint2" , p2);
+				p2 = str.find("}", p1);
+				temp = str.substr(p1 + 6, p2 - p1 -6);
+				feedback.arm_joint2 = atof(temp.c_str())/1000.0;
+
+				//p1 = str.find("{Stretch" , p2);
+				//p2 = str.find("}", p1);
+				//temp = str.substr(p1 + 6, p2 - p1 -6);
+				//feedback.arm_stretch = atof(temp.c_str())/1000.0;
+			}
+			
+			p1 = str.find("SEN {Type ArmLocal} {Name SensorPosition}");
+			if(p1 < 0)
+			{
+				ROS_INFO("can't find arm pitch-roll feedback data");
+				//continue;
+			}
+			else
+			{
+				p1 = str.find("{Pitch" , p1);
+				p2 = str.find("}", p1);
+				temp = str.substr(p1 + 6, p2 - p1 -6);
+				feedback.arm_pitch = atof(temp.c_str())/1000.0;
+
+				p1 = str.find("{Roll" , p2);
+				p2 = str.find("}", p1);
+				temp = str.substr(p1 + 6, p2 - p1 -6);
+				feedback.arm_roll = atof(temp.c_str())/1000.0;
+
+				//p1 = str.find("{Gripper" , p2);
+				//p2 = str.find("}", p1);
+				//temp = str.substr(p1 + 6, p2 - p1 -6);
+				//feedback.arm_gripper = atof(temp.c_str())/1000.0;
+			}
+		}
+		else
+		{
+			ROS_INFO("receive  empty arm feedback data");
+		}
+	
+		ros::Time arm_feedback_msg_time = ros::Time::now();
+	
+		sensor_msgs::JointState arm_feedback_msg;
+		arm_feedback_msg.header.stamp = arm_feedback_msg_time;
+		
+		arm_feedback_msg.name.resize(6);
+		arm_feedback_msg.name[0] = "ARM_PTZ_Joint";
+		arm_feedback_msg.name[1] = "ARM_Joint1";
+		arm_feedback_msg.name[2] = "ARM_Joint2";
+		arm_feedback_msg.name[3] = "ARM_PITCH_Joint";
+		arm_feedback_msg.name[4] = "ARM_ROLL_Joint";
+		arm_feedback_msg.name[5] = "ARM_GRIPPER_Joint";
+
+		arm_feedback_msg.position.resize(6);
+		arm_feedback_msg.position[0] = feedback.arm_ptz;
+		arm_feedback_msg.position[1] = feedback.arm_joint1;
+		arm_feedback_msg.position[2] = feedback.arm_joint2;
+		arm_feedback_msg.position[3] = feedback.arm_pitch;
+		arm_feedback_msg.position[4] = feedback.arm_roll;
+		arm_feedback_msg.position[5] = feedback.arm_gripper;
+		
+		arm_feedback_msg.velocity.resize(6);
+		for( int i = 0; i < 6; i++)
+			arm_feedback_msg.velocity[i] = 0;
+		
+		char feebback_joint_position[255];
+		sprintf(feebback_joint_position,"SEN {Type ARM} {Name Position} {PTZ %f} {Joint1 %f} {Joint2 %f} {Stretch %f} {Pitch %f} {Roll %f} {Gripper %f}\r\n",arm_feedback_msg.position[0], arm_feedback_msg.position[1], arm_feedback_msg.position[2], 0, arm_feedback_msg.position[3], arm_feedback_msg.position[4], arm_feedback_msg.position[5]);
+		string feebback_joint_position_str(feebback_joint_position);
+
+		cout<<feebback_joint_position_str<<endl;
+		//for( int i = 0; i < 6; i++)
+			//ROS_INFO("arm_joint%d_position:%f",i,arm_feedback_msg.position[i]);
+
+		joint_state_pub.publish(arm_feedback_msg);
+
+		ros::spinOnce();
+		loop_rate.sleep();
+		//++count;
+	}
+
+	return 0;
+}

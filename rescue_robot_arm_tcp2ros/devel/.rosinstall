@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robocup/catkin_ws/src/rescue_robot_arm_tcp2ros/devel/setup.sh

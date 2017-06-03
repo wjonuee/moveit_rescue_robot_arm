@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: rescue_robot_arm.SLDASM
+    relative_path: robots/rescue_robot_arm.SLDASM.urdf
+  SRDF:
+    relative_path: config/rescue_robot_arm.SLDASM.srdf
+  CONFIG:
+    generated_timestamp: 1486651105

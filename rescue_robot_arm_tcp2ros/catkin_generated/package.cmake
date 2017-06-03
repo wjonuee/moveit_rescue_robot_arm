@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rescue_robot_arm_tcp2ros")
+set(rescue_robot_arm_tcp2ros_MAINTAINER "wjonuee <wjonuee@todo.todo>")
+set(rescue_robot_arm_tcp2ros_DEPRECATED "")
+set(rescue_robot_arm_tcp2ros_VERSION "0.0.0")
+set(rescue_robot_arm_tcp2ros_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "sensor_msgs")
+set(rescue_robot_arm_tcp2ros_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "sensor_msgs")
+set(rescue_robot_arm_tcp2ros_BUILDTOOL_DEPENDS "catkin")
